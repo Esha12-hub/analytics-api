@@ -1,8 +1,10 @@
 {
   "name": "analytics-api",
   "version": "1.0.0",
-  "description": "Google Analytics API endpoint for Firebase app",
+  "description": "Google Analytics API on Vercel",
+  "main": "api/getAnalytics.js",
+  "type": "module",
   "dependencies": {
-    "@google-analytics/data": "^4.0.0"
+    "@google-analytics/data": "^4.3.0"
   }
 }
