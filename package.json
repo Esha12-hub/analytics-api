@@ -1,0 +1,8 @@
+{
+  "name": "analytics-api",
+  "version": "1.0.0",
+  "description": "Google Analytics API endpoint for Firebase app",
+  "dependencies": {
+    "@google-analytics/data": "^4.0.0"
+  }
+}
